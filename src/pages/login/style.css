@@ -1,0 +1,26 @@
+
+
+.big-text{
+    transform: scale(1.4);
+    color: #c2bebe;
+    text-shadow: 1px 6px 16px #ef1875;
+  
+  }
+  
+  .login-app{
+    /* background: radial-gradient(#c8c9ce -6%, #919194 -1%, #353544 52%, #060e31 89%, rgba(19, 21, 35, 0.2) 264%); */
+    height: 100vh;
+    padding-bottom: 100px;
+    min-height: 700px;
+    background: radial-gradient(#1d1e25 -6%, #2f0b1e -1%, #19101a 52%, #13141b 102%, rgba(23, 24, 31, 0.2) 264%)
+  }
+  
+  .container-form{
+    height: 100%;
+  }
+  
+  .container-form,
+  .row-form{
+    padding-top:  50px;
+  }
+  
