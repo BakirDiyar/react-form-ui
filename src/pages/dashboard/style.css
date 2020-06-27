@@ -12,14 +12,21 @@
   );
 }
 
+.full-h{
+    height: 100vh;
+}
+
 .aside-nav, .content-dash {
     display: inline-block;
+    background: rgba(15, 17, 20, 0.5);
     vertical-align: top;
     text-align: center;
+    padding-top: 40px;
     width: 240px;
 }
 
 .content-dash{
     width: calc(100% - 240px);
     color: #6d6e77;
+    background:  none;
 }
